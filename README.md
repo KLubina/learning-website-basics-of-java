@@ -1,7 +1,15 @@
-use this page
+# Learning Website: Basics of Java
 
-https://raw.githack.com/
+This repository contains a webpage that explains the basics of development with Java.
 
-Basics of Java learning-website: https://rawcdn.githack.com/KLubina/My-Learning-Websites/94fcd14c135b84167185b46ddf43a534553fcf23/basics-of-java-branch/basics_of_java_learning-website/index.html
+## Preview
+![Preview](pictures-for-readme/preview.png)
 
-Making websites with Java learning-website: https://rawcdn.githack.com/KLubina/My-Learning-Websites/ad7e2be47dbf3073bd03303f76c800425721456a/basics-of-java-branch/making_websites_with_java-learning-website/index.html
+## Live Demo
+The webpage can be viewed here: [Live Demo](https://rawcdn.githack.com/KLubina/learning-website-basics-of-java/61cfb87046c83bad853a9446a2469b174bb4d30b/index.html)
+
+## Contents
+The webpage covers fundamental concepts of development with Java, including:
+- Introduction to Java
+- Key syntax and concepts
+- Example code and explanations
